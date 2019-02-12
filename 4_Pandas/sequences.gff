@@ -1,0 +1,6 @@
+ctg123	.	mRNA	13	90	.	-	.	ID=mrna0001;Name=sonichedgehog
+ctg123	.	exon	13	50	.	-	.	ID=exon00001;Parent=mrna0001
+ctg123	.	exon	60	90	.	-	.	ID=exon00002;Parent=mrna0001
+ctg456	.	mRNA	120	200	.	+	.	ID=mrna0002;Parent=mrna0002
+ctg456	.	exon	120	135	.	+	.	ID=exon00001;Parent=mrna0002
+ctg456	.	exon	180	200	.	+	.	ID=exon00002;Parent=mrna0002
